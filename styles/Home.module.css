@@ -1,0 +1,8 @@
+.Main{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12rem;
+  position: absolute;
+}
+
